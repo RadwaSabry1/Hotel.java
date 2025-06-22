@@ -1,0 +1,8 @@
+1,Standard,true
+2,Standard,true
+3,Deluxe,true
+4,Deluxe,true
+5,Suite,true
+6,Suite,false
+7,Standard,false
+8,Suite,true
